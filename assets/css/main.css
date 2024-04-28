@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  :root {
+    scroll-behavior: smooth;
+  }
+}
+
+ 
+
+ 
+
+pre {
+
+  
+   
+  color: #c9d1d9;
+  font-size: 0.875rem;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+   
+   
+  background: #0d1117;
+}
+
+ 
